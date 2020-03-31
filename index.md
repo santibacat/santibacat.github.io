@@ -1,7 +1,7 @@
-## Welcome to GitHub Pages
+## Santi Bacat
 
-Radiologist in Murcia.
-PhD's student in University of Murcia, Spain.
+Radiologist in Murcia, Spain
+PhD's student in University of Murcia.
 Computer science and deep learning enthusiast.
 
 
